@@ -1,0 +1,14 @@
+D:\C#\BankApp\bin\Debug\net10.0\BankApp.exe
+D:\C#\BankApp\bin\Debug\net10.0\BankApp.deps.json
+D:\C#\BankApp\bin\Debug\net10.0\BankApp.runtimeconfig.json
+D:\C#\BankApp\bin\Debug\net10.0\BankApp.dll
+D:\C#\BankApp\bin\Debug\net10.0\BankApp.pdb
+D:\C#\BankApp\obj\Debug\net10.0\BankApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\BankApp\obj\Debug\net10.0\BankApp.AssemblyInfoInputs.cache
+D:\C#\BankApp\obj\Debug\net10.0\BankApp.AssemblyInfo.cs
+D:\C#\BankApp\obj\Debug\net10.0\BankApp.csproj.CoreCompileInputs.cache
+D:\C#\BankApp\obj\Debug\net10.0\BankApp.dll
+D:\C#\BankApp\obj\Debug\net10.0\refint\BankApp.dll
+D:\C#\BankApp\obj\Debug\net10.0\BankApp.pdb
+D:\C#\BankApp\obj\Debug\net10.0\BankApp.genruntimeconfig.cache
+D:\C#\BankApp\obj\Debug\net10.0\ref\BankApp.dll

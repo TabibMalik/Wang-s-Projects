@@ -1,0 +1,14 @@
+D:\C#\EmployeeManagement\bin\Debug\net10.0\EmployeeManagement.exe
+D:\C#\EmployeeManagement\bin\Debug\net10.0\EmployeeManagement.deps.json
+D:\C#\EmployeeManagement\bin\Debug\net10.0\EmployeeManagement.runtimeconfig.json
+D:\C#\EmployeeManagement\bin\Debug\net10.0\EmployeeManagement.dll
+D:\C#\EmployeeManagement\bin\Debug\net10.0\EmployeeManagement.pdb
+D:\C#\EmployeeManagement\obj\Debug\net10.0\EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\EmployeeManagement\obj\Debug\net10.0\EmployeeManagement.AssemblyInfoInputs.cache
+D:\C#\EmployeeManagement\obj\Debug\net10.0\EmployeeManagement.AssemblyInfo.cs
+D:\C#\EmployeeManagement\obj\Debug\net10.0\EmployeeManagement.csproj.CoreCompileInputs.cache
+D:\C#\EmployeeManagement\obj\Debug\net10.0\EmployeeManagement.dll
+D:\C#\EmployeeManagement\obj\Debug\net10.0\refint\EmployeeManagement.dll
+D:\C#\EmployeeManagement\obj\Debug\net10.0\EmployeeManagement.pdb
+D:\C#\EmployeeManagement\obj\Debug\net10.0\EmployeeManagement.genruntimeconfig.cache
+D:\C#\EmployeeManagement\obj\Debug\net10.0\ref\EmployeeManagement.dll
